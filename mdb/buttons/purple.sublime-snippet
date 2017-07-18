@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<button type="button" class="btn purple-gradient">${1:purple}</button>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>btn-purple</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
